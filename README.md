@@ -35,6 +35,10 @@ INSTALLATION
 ------------
 Install Python and required libraries. Visit https://www.python.org/downloads/ URL for more details
 
+DATASET
+--------
+Link to dataset used https://jmcauley.ucsd.edu/data/amazon/
+
 SCREENSHOT
 ----------
 *Home Page:
