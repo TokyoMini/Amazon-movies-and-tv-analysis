@@ -34,7 +34,8 @@ This module requires following:
 
 INSTALLATION
 ------------
-Install Python and required libraries. Visit https://www.python.org/downloads/ URL for more details
+Install Python and required libraries. Visit https://www.python.org/downloads/ URL for more details.
+Packages can be installed with "pip install " command.
 
 DATASET
 --------
